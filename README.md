@@ -15,5 +15,5 @@ insatlling mods on said games, figuring out CLIs and GUIs and iPods! Fast forwar
 
 #### Connect with me:
 
-[<img src="https://user-images.githubusercontent.com/38962380/168149614-fbca0acf-97e1-4c57-9b80-f18ec049f11f.png">
-](http://LinkedIn.com/LuisJean/)
+[<img src="(https://user-images.githubusercontent.com/38962380/168151713-59971c5f-a0fa-4699-bdb2-ba5efc3f7f01.jpg)" width="100">
+](https://www.linkedin.com/in/luis-jean-01448a173/)
