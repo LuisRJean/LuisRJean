@@ -1,16 +1,14 @@
-### Hi there 👋
+About me
 
-<!--
-**LuisRJean/LuisRJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+There was once a young boy named Luis that was interested in building the future with the help of technology, his career life changed from one Software Developer Junior/Intern to DevOps. Once upon a time, at an early age, my main interests were cars, network security, installing games on a custom built desktop, 
+insatlling mods on said games, figuring out CLIs and GUIs and iPods! Fast forward< I fell in love with computational data, math, and a little bit of physics! All of that has led me to study Computer Science Engineering with Math and in hopes to earn my Masters!!!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hola, I’m Luis Jean! 👋
+
+- 🔭 I am currently working on a Deep Learning Automatic Speech Recognition(ASR) program and ECS/EKS AWS focused infra automation related to computer vision
+- 🌱 I am currently learning AWS Cloud native infrastructure, DevOps, SRE
+- 💬 Ask me about anything security, network and DevOps
+- 📫 How to reach me: by email in my profile bio
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am learning multiple languages at once and I am ambidextrous!
