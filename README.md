@@ -9,8 +9,6 @@ installing mods on said games, figuring out CLIs with GUIs and iPods!* Fast forw
 - 🔭 I am currently working on a Deep Learning Automatic Speech Recognition(ASR) program and ECS/EKS AWS focused infra automation related to computer vision
 - 🌱 I am currently learning AWS Cloud native infrastructure, DevOps, SRE
 - 💬 Ask me about anything security, network and DevOps
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I am learning multiple languages at once and I am ambidextrous!
 - 📫 How to reach me: ljmontreal1@gmail.com
 
 
