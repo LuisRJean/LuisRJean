@@ -24,6 +24,11 @@ insatlling mods on said games, figuring out CLIs and GUIs and iPods! Fast forwar
 [<img src="https://user-images.githubusercontent.com/38962380/168152835-c81deb56-fb94-4e10-8ffd-d6361e61b9c1.png" width="56">
 ](https://www.Instagram.com/LuisRjean/)
 
+
+
+[<img src="https://user-images.githubusercontent.com/38962380/168153506-bb9eb301-589f-4a8b-99f2-0870ec1dd241.png" width="56">
+](https://www.twitter.com/LuisRJean/)
+
 [1]: https://www.linkedin.com/in/luis-jean-01448a173
 [2]: https://www.Instagram.com/LuisRjean
 [3]: https://www.twitter.com/LuisRJean
