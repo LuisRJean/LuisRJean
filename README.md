@@ -1,7 +1,7 @@
 ## About me
 
-There was once a young boy named Luis that was interested in building the future with the help of technology, his career life changed from one Software Developer Junior/Intern to DevOps. Once upon a time, at an early age, my main interests were cars, network security, installing games on a custom built desktop, 
-insatlling mods on said games, figuring out CLIs and GUIs and iPods! Fast forward< I fell in love with computational data, math, and a little bit of physics! All of that has led me to study Computer Science Engineering with Math and in hopes to earn my Masters!!
+*There was once a young boy named Luis that was interested in building the future with the help of technology, his career life changed from one Software Developer Junior/Intern to DevOps Specialist*. Now I work and study in the DevOps field and I am honored and grateful with this choice to be in this position to make an impact. *Once upon a time, at an early age, my main interests were cars, network security, installing games on a custom built desktop, 
+insatlling mods on said games, figuring out CLIs and GUIs and iPods!* Fast forward < I fell in love with computational data, math, and a little bit of physics! All of that has led me to study Computer Science Engineering with Math to earn my Masters!! In hopes to make myself a full IT-Dev-SecOps Engineer.
 
 
 ### Hola, I’m Luis Jean! 👋
@@ -13,8 +13,6 @@ insatlling mods on said games, figuring out CLIs and GUIs and iPods! Fast forwar
 - ⚡ Fun fact: I am learning multiple languages at once and I am ambidextrous!
 - 📫 How to reach me: ljmontreal1@gmail.com
 
-<b>
-	<b/>
 
 #### Connect with me:
 ---
