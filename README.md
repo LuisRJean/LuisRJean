@@ -17,17 +17,21 @@ insatlling mods on said games, figuring out CLIs and GUIs and iPods! Fast forwar
 	<b/>
 
 #### Connect with me:
-
+---
 [<img src="https://user-images.githubusercontent.com/38962380/168151713-59971c5f-a0fa-4699-bdb2-ba5efc3f7f01.jpg" width="56">
 ](https://www.linkedin.com/in/luis-jean-01448a173/)
+---
 
+---
 [<img src="https://user-images.githubusercontent.com/38962380/168152835-c81deb56-fb94-4e10-8ffd-d6361e61b9c1.png" width="56">
 ](https://www.Instagram.com/LuisRjean/)
+---
 
 
-
-[<img src="https://user-images.githubusercontent.com/38962380/168153506-bb9eb301-589f-4a8b-99f2-0870ec1dd241.png" width="56">
+---
+[<img src="https://user-images.githubusercontent.com/38962380/168154074-33b6663c-4420-4751-be46-2fc95e8c3e3a.jpg" width="56">
 ](https://www.twitter.com/LuisRJean/)
+---
 
 [1]: https://www.linkedin.com/in/luis-jean-01448a173
 [2]: https://www.Instagram.com/LuisRjean
