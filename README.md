@@ -14,13 +14,6 @@ insatlling mods on said games, figuring out CLIs and GUIs and iPods! Fast forwar
 - 📫 How to reach me: ljmontreal1@gmail.com
 
 #### Connect with me:
-![linkedin black](https://user-images.githubusercontent.com/38962380/168149614-fbca0acf-97e1-4c57-9b80-f18ec049f11f.png)
-: https://www.linkedin.com/in/LuisJean
 
-[2]: https://www.Twitter.com/in/LuisRJean
-[3]: https://www.Instagram.com/in/LuisRJean
-
-![alternative text](image_name.png "image Title"
-https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
-
-
+[<img src="https://user-images.githubusercontent.com/38962380/168149614-fbca0acf-97e1-4c57-9b80-f18ec049f11f.png">
+](http://LinkedIn.com/LuisJean/)
