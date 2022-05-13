@@ -4,7 +4,7 @@
 installing mods on said games, figuring out CLIs with GUIs and iPods!* Fast forward < I fell in love with computational data, math, and a little bit of physics! All of that has led me to study Computer Science Engineering with Math to earn my Masters!! In hopes to make myself a full IT-Dev-SecOps Engineer.
 
 
-### Hola, I’m Luis Jean! 👋
+## Hola, I’m Luis Jean! 👋
 
 - 🔭 I am currently working on ECS/EKS AWS infra automation related to feedback loops in a dashboard
 - 🌱 I am currently learning AWS Cloud native infrastructure, DevOps, SRE
@@ -13,6 +13,7 @@ installing mods on said games, figuring out CLIs with GUIs and iPods!* Fast forw
 
 
 #### Connect with me:
+
 ---
 [<img src="https://user-images.githubusercontent.com/38962380/168151713-59971c5f-a0fa-4699-bdb2-ba5efc3f7f01.jpg" width="43">
 ](https://www.linkedin.com/in/luis-jean-01448a173/)  [<img src="https://user-images.githubusercontent.com/38962380/168152835-c81deb56-fb94-4e10-8ffd-d6361e61b9c1.png" width="43">
