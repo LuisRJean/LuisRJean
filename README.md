@@ -6,7 +6,7 @@ installing mods on said games, figuring out CLIs with GUIs and iPods!* Fast forw
 
 ### Hola, I’m Luis Jean! 👋
 
-- 🔭 I am currently working on a Deep Learning Automatic Speech Recognition(ASR) program and ECS/EKS AWS focused infra automation related to computer vision
+- 🔭 I am currently working on ECS/EKS AWS infra automation related to feedback loops in a dashboard
 - 🌱 I am currently learning AWS Cloud native infrastructure, DevOps, SRE
 - 💬 Ask me about anything security, network and DevOps
 - 📫 How to reach me: ljmontreal1@gmail.com
