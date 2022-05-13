@@ -11,7 +11,7 @@ installing mods on said games, figuring out CLIs with GUIs and iPods!* Fast forw
 - 💬 Ask me about anything security, network and DevOps
 - 📫 How to reach me: ljmontreal1@gmail.com
 
-
+---
 #### Connect with me:
 
 
