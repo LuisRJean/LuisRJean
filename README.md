@@ -1,6 +1,6 @@
 # About me
 
-*Once upon a time, young boy named Luis that was interested in supporting the future with the help of technology, his career life changed from a Software Developer Intern/Junior to DevOps Specialist*. Now I study in the DevOps field building a platform for engineers while in search of a full time IT-Software Developement Engineer position.
+*Once upon a time, a young boy named Luis that was interested in supporting the future with the help of technology had his career life change when going from a Software Developer Intern/Junior to DevOps Specialist*. Now I study in the DevOps field building a platform for engineers while in search of a full time IT-Software Developement Engineer position.
 
 
 ## Hola, I’m Luis Jean 👋
