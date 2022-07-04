@@ -29,6 +29,6 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisRJean&repo=constant-green
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisRJean&repo=const-green
 "/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisRJean"/>
