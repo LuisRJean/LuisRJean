@@ -28,5 +28,6 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisrjean=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=zluisrjean_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=zLuisRJean_icons=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisRJean"/>
