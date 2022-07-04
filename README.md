@@ -1,14 +1,14 @@
 # About me
 
-*There was once a young boy named Luis that was interested in supporting the future with the help of technology, his career life changed from a Software Developer Intern/Junior to DevOps Specialist*. Now I study in the DevOps field in hopes of building a platform for developers while in hopes of coming across a full time IT-Software Developement Engineer position! 
+*Once upon a time, young boy named Luis that was interested in supporting the future with the help of technology, his career life changed from a Software Developer Intern/Junior to DevOps Specialist*. Now I study in the DevOps field building a platform for engineers while in search of a full time IT-Software Developement Engineer position.
 
 
-## Hola, I’m Luis Jean! 👋
-
-- 🔭 I am currently working on EKS AWS infra automation related to feedback loops in a dashboard
-- 🌱 I am currently learning AWS Cloud native infrastructure, DevOps, SRE
-- 💬 Ask me about anything security, network and DevOps
-- 📫 How to reach me: ljmontreal1@gmail.com
+## Hola, I’m Luis Jean 👋
+### A passionate Developer
+- 🔭 I am currently working on different things, where I am working as a software engineer for myself and clients creating production grade end to end projects.
+- 🌱 I have worked as an Intern at biomedical engineering organizations while studying and later transitioned into the DevOps field. I have also worked as a DevOps Specialist where I did automation and integrations based projects. 
+- 🙇 I recently came across a golden opportunity to build a my own startup, to have a seamless streamline of data with the help of automation and integration tooling.
+- ⚡ How to reach me: ljmontreal1@gmail.com
 
 ---
 #### Connect with me:
