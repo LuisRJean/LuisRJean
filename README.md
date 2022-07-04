@@ -25,3 +25,7 @@
 [1]: https://www.linkedin.com/in/luis-jean-01448a173
 [2]: https://www.Instagram.com/LuisRjean
 [3]: https://www.twitter.com/LuisRJean
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
