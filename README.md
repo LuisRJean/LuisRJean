@@ -5,7 +5,7 @@
 
 ## Hola, I’m Luis Jean 👋
 ### A passionate Developer
-![](https://komarev.com/ghpvc/?username=LuisRJean&bcolor=lueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=LuisRJean&bcolor=blueviolet&style=for-the-badge)
 - 🔭 I am currently working on different things, where I am working as a software engineer for myself and clients creating production grade end to end projects.
 - 🌱 I have worked as an Intern at biomedical engineering organizations while studying and later transitioned into the DevOps field. I have also worked as a DevOps Specialist where I did automation and integrations based projects. 
 - 🙇 I recently came across a golden opportunity to build a my own startup, to have a seamless streamline of data with the help of automation and integration tooling.
