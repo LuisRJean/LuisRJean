@@ -20,7 +20,7 @@
 #### Connect with me:
 
 
-[<img src="file:///Users/luisjean/Downloads/linkedin-icon-png-transparent-background-26.jpeg" width="43">
+[<img src="https://user-images.githubusercontent.com/38962380/168151713-59971c5f-a0fa-4699-bdb2-ba5efc3f7f01.jpg#gh-dark-mode-only" width="43">
 ](https://www.linkedin.com/in/luis-jean-01448a173/)  
 [<img src="https://user-images.githubusercontent.com/38962380/168152835-c81deb56-fb94-4e10-8ffd-d6361e61b9c1.png" width="43">
 ](https://www.Instagram.com/LuisRjean/)  
