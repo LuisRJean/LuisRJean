@@ -13,6 +13,9 @@
 - 🙇 I recently came across an opportunity to build my very own startup, to have a seamless streamline of data with the help of automation and integration tooling.
 - ⚡ How to reach me: ljmontreal1@gmail.com
 
+<a href="https://twitter.com/LuisRJean" class="twitter-follow-button" data-show-count="true" data-size="medium">Follow @LuisRJean</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 ---
 #### Connect with me:
 
