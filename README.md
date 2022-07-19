@@ -1,6 +1,6 @@
 # About me
 
-*Once upon a time, I found joy and excitement in technology then had my career life change when going from a Software Development Intern/Junior to DevOps Specialist*. Now I study in the DevOps field building a platform for engineers while searching for a full-time IT-Software Developement Engineer position. 
+*Once upon a time, I found joy and excitement in technology then had my career life change when going from a Software Development Intern/Junior to DevOps Specialist*. Now I study in the DevOps field building a platform for engineers. 
 
 
 # Hola👋, I’m Luis Jean 
