@@ -8,12 +8,13 @@
 ![](https://komarev.com/ghpvc/?username=LuisRJean&bcolor=blueviolet&style=for-the-badge)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LuisRJean&theme=onedark)](https://github-profile-trophy)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/LuisRJean.svg?style=social&label=Follow%20%40LuisRJean)](https://twitter.com/LuisRJean) 
 - 🔭 I am currently working on different things, where I am working as a software engineer for myself and clients creating production grade end to end projects.
 - 🌱 I have worked as an Intern at biomedical engineering organizations while studying and later transitioned into the DevOps field. I have also worked as a DevOps Specialist where I did automation, implementation and integrations based projects. 
 - 🙇 I recently came across an opportunity to build my very own startup, to have a seamless streamline of data with the help of automation and integration tooling.
 - ⚡ How to reach me: ljmontreal1@gmail.com
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/LuisRJean.svg?style=social&label=Follow%20%40LuisRJean)](https://twitter.com/LuisRJean) 
+
 
 ---
 #### Connect with me:
