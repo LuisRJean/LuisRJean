@@ -5,14 +5,17 @@
 
 # Hola👋, I’m Luis Jean 
 ### Software Developer & DevOps Engineer
-![](https://komarev.com/ghpvc/?username=LuisRJean&bcolor=blueviolet&style=for-the-badge)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisrjean&label=Profile%20views&color=0e75b6&style=flat" alt="luisrjean" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisrjean" alt="luisrjean" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/luisrjean" target="blank"><img src="https://img.shields.io/twitter/follow/luisrjean?logo=twitter&style=for-the-badge" alt="luisrjean" /></a> </p>
+
+- 🔭 I am currently working on different things, where I am working as a software engineer for myself and clients creating production grade end to end projects.
+- 🌱 I have worked as an Intern at biomedical engineering organizations while studying and later transitioned into the DevOps field. I have also worked as a DevOps Specialist where I did automation, implementation and integrations based projects. 
+- 🙇 I recently came across an opportunity to build my very own startup, to have a seamless streamline of data with the help of automation and integration tooling.
+- ⚡ How to reach me: ljmontreal1@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
