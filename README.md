@@ -1,10 +1,10 @@
 # About me
 
-*Once upon a time, I found joy and excitement in technology then had my career life change when going from a Software Development Intern/Junior to DevOps Specialist*. Now I study in the DevOps field building a platform for engineers. 
+I study in the DevSecOps field
 
 
 # Hola👋, I’m Luis Jean 
-### Software Developer & DevOps Engineer
+### Software Developer / DevOps Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisrjean&label=Profile%20views&color=0e75b6&style=flat" alt="luisrjean" /> </p>
 
