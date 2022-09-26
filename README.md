@@ -13,7 +13,7 @@ I study in the DevSecOps field
 <p align="left"> <a href="https://twitter.com/luisrjean" target="blank"><img src="https://img.shields.io/twitter/follow/luisrjean?logo=twitter&style=for-the-badge" alt="luisrjean" /></a> </p>
 
 - 🔭 I am currently working on different things, where I am working as a software engineer for myself and clients creating production grade end to end projects.
-- 🌱 I have worked at biomedical engineering organization(s) while studying, and later transitioned into the DevSecOps field. I have also worked as a DevOps Specialist where I did automation, configurations, Implementations, Design and integrations based projects. 
+- 🌱 I have worked at biomedical engineering organization(s) while studying, and later transitioned into the DevSecOps field. I also work as a DevOps Specialist where I mainly do automations, configurations, Implementations, Designs and integrations based projects. 
 - 🙇 Email for inquiries!
 - ⚡ How to reach me: ljmontreal1@gmail.com
 
