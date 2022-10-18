@@ -1,10 +1,6 @@
-# About me
-I study in the DevSecOps field 
-
-
 
 # Hola👋, I’m Luis Jean 
-### Software Engineer 
+### software developement engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisrjean&label=Profile%20views&color=0e75b6&style=flat" alt="luisrjean" /> </p>
 
