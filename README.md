@@ -1,3 +1,5 @@
+# About me
+I study in the DevSecOps field 
 
 # Hola👋, I’m Luis Jean 
 ### software developement engineer
