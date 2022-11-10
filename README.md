@@ -12,8 +12,7 @@ I study in the DevSecOps field
 
 ![Twitch Status](https://img.shields.io/twitch/status/luisrjean?style=for-the-badge)
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCEdEnCC6uHylBsvWSnuH-Sw?style=social)
-
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCEdEnCC6uHylBsvWSnuH-Sw?style=for-the-badge)
 
 - 🔭 I am currently working on different things, where I am working as a software engineer for myself and clients creating production grade end to end projects.
 - 🌱 I have worked at biomedical engineering organization(s) while studying, and later transitioned into the DevSecOps field. I also work as a DevOps Specialist where I mainly do automations, configurations, Implementations, Designs and integrations based projects. 
