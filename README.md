@@ -9,8 +9,7 @@ I study in the DevSecOps field
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisrjean" alt="luisrjean" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/luisrjean" target="blank"><img src="https://img.shields.io/twitter/follow/luisrjean?logo=twitter&style=for-the-badge" alt="luisrjean" /></a> </p>
-
-https://img.shields.io/twitch/status/luisrjean?style=for-the-badge
+![Twitch Status](https://img.shields.io/twitch/status/luisrjean?style=for-the-badge)
 
 
 - 🔭 I am currently working on different things, where I am working as a software engineer for myself and clients creating production grade end to end projects.
