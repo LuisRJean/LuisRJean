@@ -14,9 +14,9 @@ I study in the DevSecOps field
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCEdEnCC6uHylBsvWSnuH-Sw?style=for-the-badge)
 
-- 🔭 I am currently working on different things, where I am working as a software engineer for myself and clients creating production grade end to end projects.
-- 🌱 I have worked at biomedical engineering organization(s) while studying, and later transitioned into the DevSecOps field. I also work as a DevOps Specialist where I mainly do automations, configurations, Implementations, Designs and integrations based projects. 
-- 🙇 Email for inquiries!
+- 🔭 I am currently working on machine learning problems while studying and developing software.
+- 🌱 I have worked biomedical engineering organization(s) and later transitioned into the DevSecOps field. I also have worked as a DevOps Specialist where I mainly did automations, configurations, Implementations, Designs, Testing, Deployments and integrations based projects. 
+- 🙇 I am looking for a new role where I can continue to grow and make contributions upon getting hired. Email is below !!
 - ⚡ How to reach me: ljmontreal1@gmail.com
 
 <h3 align="left">Connect with me:</h3>
