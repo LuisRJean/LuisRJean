@@ -11,7 +11,6 @@ I study in the DevSecOps field
 <p align="left"> <a href="https://twitter.com/luisrjean" target="blank"><img src="https://img.shields.io/twitter/follow/luisrjean?logo=twitter&style=for-the-badge" alt="luisrjean" /></a> </p>
 
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/luisrjean?style=for-the-badge">
-![Twitch Status](https://img.shields.io/twitch/status/luisrjean?style=for-the-badge)
 
 
 - 🔭 I am currently working on different things, where I am working as a software engineer for myself and clients creating production grade end to end projects.
