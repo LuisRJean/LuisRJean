@@ -2,7 +2,7 @@
 I study in the DevSecOps field 
 
 # Hola👋, I’m Luis Jean 
-### Software Developement Engineer / DevOps Engineer
+### Software Developement Engineer / Devops Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisrjean&label=Profile%20views&color=0e75b6&style=flat" alt="luisrjean" /> </p>
 
@@ -15,7 +15,7 @@ I study in the DevSecOps field
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCEdEnCC6uHylBsvWSnuH-Sw?style=for-the-badge)
 
 - 🔭 I am currently working on machine learning problems while studying and developing software.
-- 🌱 I have worked biomedical engineering organization(s) and later transitioned into the DevSecOps field. I also have worked as a DevOps Specialist where I mainly did automations, configurations, Implementations, Designs, Testing, Deployments and integrations based projects. 
+- 🌱 I have worked biomedical engineering organization(s) and later transitioned into the DevSecOps field. I also have worked as a Devops Specialist where I mainly did automations, configurations, Implementations, Designs, Testing, Deployments and integrations based projects. 
 - 🙇 I am looking for a new role where I can continue to grow and make contributions upon getting hired. Email is below !!
 - ⚡ How to reach me: ljmontreal1@gmail.com
 
