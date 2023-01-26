@@ -15,7 +15,7 @@ I study in the DevSecOps field
 
 - 🔭 I am currently working on machine learning problems while studying and developing software.
 - 🌱 I have worked at biomedical engineering / Medical Device Engineering organization(s) and later transitioned into the DevSecOps field. I also have worked as a Devops Specialist where I mainly did automations, configurations, Implementations, Designs, Testing, Deployments and integrations based projects. 
-- 🙇 I am looking for a new role where I can continue to grow and make contributions upon getting hired. Email is below !!
+- 🙇 I am looking for a new role where I can continue to grow and make contributions upon getting hired.(Email is below !!:))
 - ⚡ How to reach me: ljmontreal1@gmail.com
 
 <h3 align="left">Connect with me:</h3>
