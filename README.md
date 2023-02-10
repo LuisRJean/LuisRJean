@@ -1,5 +1,5 @@
 # Hola👋, I’m Luis Jean
-I like to complete end-to-end learning and to train deep features
+I like to complete end-to-end learning and to train deep features. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisrjean&label=Profile%20views&color=0e75b6&style=flat" alt="luisrjean" /> </p>
 
@@ -14,7 +14,7 @@ I like to complete end-to-end learning and to train deep features
 - 🔭 I am currently working on applied/fundamental research machine learning problems while studying and working on open-ended non-task-oriented dialog systems.
 - 🌱 I have worked at biomedical engineering / Medical Device Engineering companies and later focused on DevOps culture. I also have worked as a Devops Specialist where I mainly did automations, configurations, Implementations, Designs, Testing, Deployments and integrations based projects. 
 - 🙇 I am looking for a new role where I can continue to grow and make impactful contributions! (Email is below !!) :)
-- ⚡ How to reach me: ljmontreal1@gmail.com
+- ⚡ Areas of Interests: Computer Vision, Deep Neural Nets, NLP, NLG, ASR, LU, DM, transfer learning, unsupervised learning, reinforcement learning amore 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
