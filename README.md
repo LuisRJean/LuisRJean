@@ -1,5 +1,5 @@
 # About me
-I like to applied and fundamental research to complete end-to-end learning 
+I like to complete end-to-end learning and to train deep features 
 
 # Hola👋, I’m Luis Jean 
 
