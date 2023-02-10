@@ -1,5 +1,5 @@
 # About me
-I study in the DevSecOps field 
+Independent Applied Research 
 
 # Hola👋, I’m Luis Jean 
 
