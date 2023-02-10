@@ -1,7 +1,6 @@
-# About me
+# Hola👋, I’m Luis Jean
 I like to complete end-to-end learning and to train deep features 
-
-# Hola👋, I’m Luis Jean 
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisrjean&label=Profile%20views&color=0e75b6&style=flat" alt="luisrjean" /> </p>
 
