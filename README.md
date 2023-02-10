@@ -1,5 +1,5 @@
 # About me
-Independent Applied Research 
+I like to applied and fundamental research to complete end-to-end learning 
 
 # Hola👋, I’m Luis Jean 
 
