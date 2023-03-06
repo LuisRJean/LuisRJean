@@ -1,4 +1,4 @@
-### Hola👋, I’m Luis Jean
+### Hola👋
 I like to complete end-to-end learning and to train deep features. 
 
 
