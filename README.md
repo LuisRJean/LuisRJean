@@ -1,11 +1,7 @@
 # Hola👋, I’m Luis Jean
 I like to complete end-to-end learning and to train deep features. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisrjean&label=Profile%20views&color=0e75b6&style=flat" alt="luisrjean" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisrjean" alt="luisrjean" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/luisrjean" target="blank"><img src="https://img.shields.io/twitter/follow/luisrjean?logo=twitter&style=for-the-badge" alt="luisrjean" /></a> </p>
 
 ![Twitch Status](https://img.shields.io/twitch/status/luisrjean?style=for-the-badge)
 
