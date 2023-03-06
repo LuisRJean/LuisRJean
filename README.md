@@ -7,10 +7,7 @@ I like to complete end-to-end learning and to train deep features.
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCEdEnCC6uHylBsvWSnuH-Sw?style=for-the-badge)
 
-- 🔭 I am currently working on applied research problems while studying and working on goal-oriented neural dialog systems.
-- 🌱 I have worked at biomedical engineering / Medical Device Engineering companies and later focused on DevOps culture. I also have worked as a Devops Specialist where I mainly did automations, configurations, Implementations, Designs, Testing, Deployments and integrations based projects. 
-- 🙇 I am looking for a new role where I can continue to grow and make impactful contributions! (Email is below !!) :)
-- ⚡ Areas of Interests: Computer Vision, Deep Neural Nets, NLP, NLG, ASR, LU, DM, transfer learning, unsupervised learning, reinforcement learning, information theory/flow, information geometry
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
