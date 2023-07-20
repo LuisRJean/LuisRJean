@@ -1,5 +1,5 @@
 ### Hola👋
-I like to complete end-to-end learning and to train deep features. 
+I like to create things and enrich other people's lives 
 
 
 
